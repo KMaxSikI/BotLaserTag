@@ -1,0 +1,1 @@
+TOKEN = "5860990661:AAFY_LszxevnCPsbkgYe1TOzQcjfBNLjuEk" # Переменная константа
